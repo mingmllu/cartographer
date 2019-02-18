@@ -2,6 +2,8 @@
 
 https://google-cartographer-ros.readthedocs.io/en/latest/index.html
 
+https://github.com/googlecartographer/cartographer
+
 source /opt/ros/kinetic/setup.bash
 
 http://wiki.ros.org/kinetic/Installation/Ubuntu:
